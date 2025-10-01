@@ -152,11 +152,3 @@ Use `model.ipynb` to:
 * **report.docx** – Detailed project report with literature survey and methodology.
 
 ---
-
-## Contact
-
-* **Author**: Mohit Sai Gutha
-* **[Email](mailto:your.email@example.com)**
-* **[LinkedIn](https://www.linkedin.com/in/mohitsaigutha)**
-
-© 2025 Mohit Sai Gutha | Real-Time Crime Detection System
